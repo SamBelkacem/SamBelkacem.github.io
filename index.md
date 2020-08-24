@@ -17,5 +17,6 @@ I dedicate my free time to learning new technologies, computer programming, and 
 - Google Scholar: [link](https://scholar.google.fr/citations?user=b4KNt4cAAAAJ&hl=fr)
 - ORCID: [link](https://orcid.org/0000-0002-7259-9054)
 - GitHub: [link](https://github.com/SamBelkacem)
+- LinkedIn [https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://dz.linkedin.com/in/sami-belkacem-364720a5)
 
 If you have any question or suggestion, please contact me at this email address: s.belkacem@usthb.dz
