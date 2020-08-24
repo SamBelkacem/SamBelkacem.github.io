@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/SamBelkacem/SamBelkacem.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PhD student in Artificial Intelligence at USTHB University and currently a member of the Computer Systems Laboratory.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionate about Computer Science, Python programming, Machine learning, and Artificial Intelligence.
+
+My research interests center on Social Network Analysis and Mining, Recommender Systems, and Machine learning.
+
+Lately, my research work focuses on Ranking news feed updates on social media.
+
+I dedicate my free time to learning new technologies, computer programming, and sharing my knowledge with others.
 
 ### Markdown
 
@@ -32,6 +38,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamBelkacem/SamBelkacem.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any question or suggestion, please contact me at this email address: s.belkacem@usthb.dz
