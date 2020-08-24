@@ -1,6 +1,6 @@
 ## Sami Belkacem
 
-PhD student in Artificial Intelligence at [USTHB University](https://www.usthb.dz/en) and currently a member of the Computer Systems Laboratory.
+PhD student in Artificial Intelligence at [USTHB University](https://www.usthb.dz/en) and currently a member of the [Computer Systems Laboratory](https://www.lsi.usthb.dz/).
 
 I am passionate about Computer Science, Python programming, Machine learning, and Artificial Intelligence.
 
