@@ -18,4 +18,4 @@ I dedicate my free time to learning new technologies, computer programming, and 
 - [ORCID](https://orcid.org/0000-0002-7259-9054)
 - [GitHub](https://github.com/SamBelkacem)
 
-If you have any question please contact me at this email address: s.belkacem@usthb.dz
+If you have any question, please contact me at this email address: s.belkacem@usthb.dz
