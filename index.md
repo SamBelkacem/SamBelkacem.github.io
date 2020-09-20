@@ -1,6 +1,6 @@
 ## Sami Belkacem
 
-<p align="center"> <img src="https://avatars1.githubusercontent.com/u/33413333?s=460&u=d80b53345a329cc365bbbc1d23348cf027a783db&v=4"> </p>
+<p align="center"> <img src="https://avatars1.githubusercontent.com/u/33413333?s=460&u=d80b53345a329cc365bbbc1d23348cf027a783db&v=4" width="40%"> </p>
 
 PhD student in Artificial Intelligence at [USTHB University](https://www.usthb.dz/en) and currently a member of the [Computer Systems Laboratory](https://www.lsi.usthb.dz/).
 
