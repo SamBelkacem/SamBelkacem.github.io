@@ -1,5 +1,7 @@
 ## Sami Belkacem
 
+<p align="center"> <img src="https://raw.githubusercontent.com/SamBelkacem/COVID19-Algeria-and-World-Dataset/master/Images/Countries%20by%20geographic%20coordinates.png"> </p>
+
 PhD student in Artificial Intelligence at [USTHB University](https://www.usthb.dz/en) and currently a member of the [Computer Systems Laboratory](https://www.lsi.usthb.dz/).
 
 I am passionate about Computer Science, Python programming, Machine learning, and Artificial Intelligence.
