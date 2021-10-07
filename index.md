@@ -21,5 +21,7 @@ I dedicate my free time to learning new technologies, computer programming, and 
 - [DBLP](https://dblp.uni-trier.de/pid/208/7638.html)
 - [GitHub](https://github.com/SamBelkacem)
 - [Kaggle](https://www.kaggle.com/sambelkacem)
+- [Youtube](https://www.youtube.com/channel/UCK4I6z3WjfOM71z-tc-TpmA)
+- [My Facebook page for PhD students](https://web.facebook.com/PhD-tips-tools-and-tricks-101192682345124)
 
 If you have any question, please contact me at this email address: s.belkacem@usthb.dz
