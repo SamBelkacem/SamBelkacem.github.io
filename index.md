@@ -1,5 +1,3 @@
-## Sami Belkacem
-
 <p align="center"> <img src="https://avatars1.githubusercontent.com/u/33413333?s=460&u=d80b53345a329cc365bbbc1d23348cf027a783db&v=4" width="30%"> </p>
 
 PhD in Artificial Intelligence at [USTHB University](https://www.usthb.dz/en) and currently a member of the [Computer Systems Laboratory](https://www.lsi.usthb.dz/).
@@ -21,6 +19,8 @@ I dedicate my free time to learning new technologies, computer programming, and 
 - [DBLP](https://dblp.uni-trier.de/pid/208/7638.html)
 - [GitHub](https://github.com/SamBelkacem)
 - [Kaggle](https://www.kaggle.com/sambelkacem)
+
+### Educational pages and channels
 
 - [My Youtube channel](https://www.youtube.com/channel/UCK4I6z3WjfOM71z-tc-TpmA)
 - [My Facebook page for PhD students](https://web.facebook.com/PhD-tips-tools-and-tricks-101192682345124)
