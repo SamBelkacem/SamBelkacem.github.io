@@ -31,4 +31,4 @@ I dedicate my free time to learning new technologies, computer programming, and 
 - [Our Facebook page for Algerian AI practitioners/learners](https://web.facebook.com/AlgerianAIBD)
 - [Our Facebook group for Algerian AI practitioners/learners](https://web.facebook.com/groups/930784020685830)
 
-If you have any question, please contact me at this email address: s.belkacem@usthb.dz
+If you have any question, please contact me at this email address: sami.belkacem@ensia.edu.dz
