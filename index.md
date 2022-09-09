@@ -14,6 +14,9 @@ Lately, my research work focuses on Ranking news feed updates on social media.
 
 I dedicate my free time to learning new technologies, computer programming, and sharing my knowledge with others.
 
+### Curriculum vitæ
+- [CV](https://sambelkacem.github.io/CV.pdf)
+
 ### Contact
 
 - [LinkedIn](https://dz.linkedin.com/in/sami-belkacem-364720a5)
