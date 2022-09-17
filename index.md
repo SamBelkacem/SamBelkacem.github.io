@@ -26,6 +26,7 @@ I dedicate my free time to learning new technologies, computer programming, and 
 - [DBLP](https://dblp.uni-trier.de/pid/208/7638.html)
 - [GitHub](https://github.com/SamBelkacem)
 - [Kaggle](https://www.kaggle.com/sambelkacem)
+- [Twitter](https://twitter.com/SamiBelkacem3)
 
 ### Educational pages, groups, and channels
 
