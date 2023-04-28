@@ -4,7 +4,7 @@
 
 Assistant Professor at the [The National Higher School of Artificial Intelligence](https://ensia.edu.dz/faculty-members/).
 
-PhD in Artificial Intelligence from [USTHB University](https://www.usthb.dz/en).
+PhD in Artificial Intelligence from [USTHB University](https://www.usthb.dz/).
 
 Currently a member of the [Computer Systems Laboratory](https://lria.usthb.dz/).
 
