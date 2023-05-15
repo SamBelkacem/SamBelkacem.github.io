@@ -30,7 +30,7 @@ I dedicate my free time to learning new technologies, computer programming, and 
 
 ### Educational pages, groups, and channels
 
-- [My YouTube channel](https://www.youtube.com/channel/UCK4I6z3WjfOM71z-tc-TpmA)
+- [My YouTube channel](https://www.youtube.com/@samibelkacem/videos)
 - [My Facebook page for PhD students/Researchers](https://web.facebook.com/PhD-tips-tools-and-tricks-101192682345124)
 - [Our Facebook page for Algerian AI practitioners/learners](https://web.facebook.com/AlgerianAIBD)
 - [Our Facebook group for Algerian AI practitioners/learners](https://web.facebook.com/groups/930784020685830)
