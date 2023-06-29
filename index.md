@@ -2,7 +2,7 @@
 
 ### Dr. Belkacem Sami
 
-Assistant Professor at the [National School of Artificial Intelligence](https://ensia.edu.dz/faculty-members/).
+Associate Professor at the [National School of Artificial Intelligence](https://ensia.edu.dz/faculty-members/).
 
 PhD in Artificial Intelligence from [USTHB University](https://www.usthb.dz/).
 
