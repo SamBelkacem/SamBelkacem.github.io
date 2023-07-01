@@ -31,8 +31,8 @@ I dedicate my free time to learning new technologies, computer programming, and 
 
 ### Others
 
- - [Kaggle](https://www.kaggle.com/sambelkacem)
  - [Twitter](https://twitter.com/SamiBelkacem3)
+ - [Kaggle](https://www.kaggle.com/sambelkacem)
 
 ### Educational pages, groups, and channels
 
