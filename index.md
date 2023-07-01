@@ -20,13 +20,19 @@ I dedicate my free time to learning new technologies, computer programming, and 
 
 - [CV](https://sambelkacem.github.io/CV.pdf)
 - [LinkedIn](https://dz.linkedin.com/in/sami-belkacem-364720a5)
+- [GitHub](https://github.com/SamBelkacem)
+
+### Scientific research
+
 - [ResearchGate](https://www.researchgate.net/profile/Sami_Belkacem)
 - [Google Scholar](https://scholar.google.fr/citations?user=b4KNt4cAAAAJ&hl=fr)
 - [ORCID](https://orcid.org/0000-0002-7259-9054)
 - [DBLP](https://dblp.uni-trier.de/pid/208/7638.html)
-- [GitHub](https://github.com/SamBelkacem)
-- [Kaggle](https://www.kaggle.com/sambelkacem)
-- [Twitter](https://twitter.com/SamiBelkacem3)
+
+### Others
+
+ - [Kaggle](https://www.kaggle.com/sambelkacem)
+ - [Twitter](https://twitter.com/SamiBelkacem3)
 
 ### Educational pages, groups, and channels
 
