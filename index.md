@@ -12,7 +12,7 @@ I am passionate about Computer Science, Python programming, Machine learning, an
 
 My research interests center on Social Network Analysis and Mining, Recommender Systems, and Machine learning.
 
-Lately, my research work focuses on Ranking news feed updates on social media.
+Lately, my research work has focused on Ranking news feed updates on social media.
 
 I dedicate my free time to learning new technologies, computer programming, and sharing my knowledge with others.
 
@@ -38,7 +38,8 @@ I dedicate my free time to learning new technologies, computer programming, and 
 
 - [My YouTube channel](https://www.youtube.com/@samibelkacem/videos)
 - [My Facebook page for PhD students/Researchers](https://web.facebook.com/PhD-tips-tools-and-tricks-101192682345124)
+- [Our Webpage for Algerian AI and Data Science community](https://www.dzair.ai/)
 - [Our Facebook page for Algerian AI practitioners/learners](https://web.facebook.com/AlgerianAIBD)
 - [Our Facebook group for Algerian AI practitioners/learners](https://web.facebook.com/groups/930784020685830)
 
-If you have any question, please contact me at this email address: sami.belkacem@ensia.edu.dz
+If you have any questions, please contact me at this email address: sami.belkacem@ensia.edu.dz
