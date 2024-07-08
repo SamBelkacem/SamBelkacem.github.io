@@ -27,7 +27,7 @@ I dedicate my free time to learning new technologies, computer programming, and 
 - [ResearchGate](https://www.researchgate.net/profile/Sami_Belkacem)
 - [Google Scholar](https://scholar.google.fr/citations?user=b4KNt4cAAAAJ&hl=fr)
 - [ORCID](https://orcid.org/0000-0002-7259-9054)
-- [DBLP](https://dblp.uni-trier.de/pid/208/7638.html)
+- [DBLP](https://dblp.org/pid/208/7638.html)
 
 ### Others
 
