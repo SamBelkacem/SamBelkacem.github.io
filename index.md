@@ -6,7 +6,7 @@ Assistant Professor at the [National School of Artificial Intelligence](https://
 
 PhD in Artificial Intelligence from [USTHB University](https://www.usthb.dz/).
 
-Currently a member of the [Computer Systems Laboratory](https://lria.usthb.dz/).
+Currently a member of the [Computer Systems Laboratory](http://www.lria.usthb.dz/).
 
 I am passionate about Computer Science, Python programming, Machine learning, and Artificial Intelligence.
 
