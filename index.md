@@ -4,9 +4,9 @@
 
 Assistant Professor at the [National School of Artificial Intelligence](https://ensia.edu.dz/faculty-members/).
 
-Head of the [University-Business Liaison Office](https://www.ensia.edu.dz/blue/)
+Head of the [University-Business Liaison Office](https://www.ensia.edu.dz/blue/).
 
-Steering Committee Member of the [Vector 2 Value Incubator (V2V)](https://v2v.ensia.edu.dz/) 
+Steering Committee Member of the [Vector 2 Value Incubator (V2V)](https://v2v.ensia.edu.dz/).
 
 PhD in Artificial Intelligence from [USTHB University](https://www.usthb.dz/).
 
