@@ -10,7 +10,7 @@ Steering Committee Member of the [Vector 2 Value Incubator (V2V)](https://v2v.en
 
 PhD in Artificial Intelligence from [USTHB University](https://www.usthb.dz/).
 
-Currently a member of the [Computer Systems Laboratory](http://www.lria.usthb.dz/).
+Currently a member of the [AISI Research Team (AI for Societal Impact)](https://aisi-team.com/).
 
 I am passionate about Computer Science, Python programming, Machine learning, and Artificial Intelligence.
 
